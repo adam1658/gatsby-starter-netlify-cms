@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Our Coffee
-image: /img/coffee-gear.png
+image: /img/img_1293-2.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
